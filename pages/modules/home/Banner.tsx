@@ -15,7 +15,7 @@ const Banner = () => {
         <div className="text-6xl font-bold">
           Explore Our Exciting Assortments of Jwellery
         </div>
-        <button className="bg-primary py-4 px-8 font-semibold text-2xl rounded-full hover:scale-105 transition-transform">
+        <button className="border-2 bg-black bg-opacity-60 border-white py-4 px-8 font-semibold text-2xl rounded-full hover:scale-105 transition-transform">
           Shop Now
         </button>
       </div>

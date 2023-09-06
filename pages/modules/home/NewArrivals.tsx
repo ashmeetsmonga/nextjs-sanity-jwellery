@@ -3,7 +3,7 @@ import React from "react";
 
 const NewArrivals = () => {
   return (
-    <div className="w-full p-10">
+    <div className="w-full px-10 py-5 mt-5">
       <h2 className="my-4 text-3xl font-light text-center">New Arrivals</h2>
       <div className="w-full grid grid-cols-5 gap-4">
         <ProductCard
