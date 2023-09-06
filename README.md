@@ -4,8 +4,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Clone the repository
 Run the following commands in terminal where you cloned the repo
+
 cd nextjs-sanity-jwellery
+
 npm i
+
 npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
