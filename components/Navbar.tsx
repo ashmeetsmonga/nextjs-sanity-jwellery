@@ -4,7 +4,7 @@ import { BsFillBagFill } from "react-icons/bs";
 
 const Navbar = () => {
   return (
-    <nav className="w-full h-20 flex items-center justify-between px-10">
+    <nav className="fixed z-50 bg-white top-0 left-0 w-full h-20 flex items-center justify-between px-10">
       <div>
         <AiOutlineMenu className="text-primary" size={25} />
       </div>

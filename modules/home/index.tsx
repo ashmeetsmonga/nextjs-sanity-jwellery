@@ -5,7 +5,7 @@ import BestSellers from "./BestSellers";
 
 const HomeModule = () => {
   return (
-    <main>
+    <main className="mt-20">
       <Banner />
       <NewArrivals />
       <BestSellers />
