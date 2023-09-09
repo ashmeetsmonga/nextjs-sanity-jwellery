@@ -13,7 +13,7 @@ interface LayoutProps {
 
 const Layout: FC<LayoutProps> = ({ children }) => {
   return (
-    <div className={`${poppins.className}`}>
+    <div className={`relative ${poppins.className}`}>
       <Navbar />
       {children}
     </div>
